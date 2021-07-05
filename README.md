@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fjezuita
-- 👀 I’m interested in almost everything -- for real.
+- 👀 I’m interested in philosophy, music and sleeping.
 - 🌱 I’m currently learning mostly math-stuff.
 - 💞️ I’m looking to collaborate on ... i don't know. Whatever comes my way, I guess.
 - 📫 How to reach me: f.jezuita@fu-berlin.de
