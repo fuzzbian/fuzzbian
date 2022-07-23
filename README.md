@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fjezuita
+- 👋 Hi, I’m @fuzzbian
 - 👀 I’m interested in philosophy, music and sleeping.
-- 🌱 I’m currently learning mostly math-stuff.
+- 🌱 I’m currently learning a lot about fuzzing.
 - 💞️ I’m looking to collaborate on ... i don't know. Whatever comes my way, I guess.
 - 📫 How to reach me: f.jezuita@fu-berlin.de
 
